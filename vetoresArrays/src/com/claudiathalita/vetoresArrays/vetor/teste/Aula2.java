@@ -1,6 +1,6 @@
-package com.claudiathalita.estruturadados.vetor.teste;
+package com.claudiathalita.vetoresArrays.vetor.teste;
 
-import com.claudiathalita.estruturadados.vetor.Vetor;
+import com.claudiathalita.vetoresArrays.vetor.Vetor;
 
 public class Aula2 {
 
